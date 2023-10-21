@@ -1,2 +1,2 @@
-# sequencia de finonacci
- primeiro repositório
+# sequência de Finonacci
+ Primeiro repositório
